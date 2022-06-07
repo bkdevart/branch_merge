@@ -1,4 +1,3 @@
 console.log("Hello world!");
 
-
-kdfsaaiosegj;agg;
+console.log("Hello class");
